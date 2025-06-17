@@ -135,14 +135,14 @@ Linked_List/
 ├── LICENSE
 ├── .gitignore
 ├── src/
-│   ├── SortedList.java              # Main program coordinator
-│   ├── SortedIntegerCollection.java  # LinkedList implementation
-│   ├── ConsoleInputHandler.java      # Console input handling
-│   ├── ConsoleDisplayManager.java    # Console display handling
-│   ├── SortedCollection.java         # Collection interface
-│   ├── InputHandler.java             # Input interface
-│   ├── DisplayManager.java           # Display interface
-│   └── javadoc/                     # Generated documentation
+    ├── SortedList.java              # Main program coordinator
+    ├── SortedIntegerCollection.java  # LinkedList implementation
+    ├── ConsoleInputHandler.java      # Console input handling
+    ├── ConsoleDisplayManager.java    # Console display handling
+    ├── SortedCollection.java         # Collection interface
+    ├── InputHandler.java             # Input interface
+    ├── DisplayManager.java           # Display interface
+    └── javadoc/                     # Generated documentation
 ```
 
 ## Code Reuse Philosophy
